@@ -1,0 +1,13 @@
+{
+	"config": {
+		"vendorId": 16700,
+		"productId": 8195,
+		"endpoint": 129
+	},
+	"controls": {
+		"arrow-left":  	[0, 0, 80, 0, 0, 0, 0, 0],
+		"arrow-right": 	[0, 0, 79, 0, 0, 0, 0, 0],
+		"arrow-top": 	[0, 0, 82, 0, 0, 0, 0, 0],
+		"arrow-bottom": [0, 0, 81, 0, 0, 0, 0, 0]
+	}
+}

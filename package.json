@@ -1,0 +1,24 @@
+{
+  "name": "Default",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "locomotive": "0.3.x",
+    "express": "3.x.x",
+    "connect-powered-by": "0.1.x",
+    "ejs": "0.8.x",
+    "socket.io": "~0.9.x",
+    "colors": "~0.6.2",
+    "underscore": "~1.5.2"
+  },
+  "devDependencies": {
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-contrib-jshint": "~0.7.2",
+    "grunt-contrib-less": "~0.8.2",
+    "grunt-contrib-requirejs": "~0.4.1",
+    "grunt-html": "~0.3.4",
+    "grunt-contrib-csslint": "~0.1.2",
+    "grunt-concurrent": "~0.4.2",
+    "grunt-nodemon": "~0.1.2"
+  }
+}

@@ -1,0 +1,27 @@
+# package control
+node_modules/*
+bower_components/*
+
+# logs
+npm_debug.log
+
+# ignore client-side
+public/*
+
+# ignore views
+app/views/*
+
+# backups
+backups/
+
+# readme
+README.md
+
+# ignore tests
+test/*
+
+# ignore settings
+.jshintrc
+.csslintrc
+.gitignore
+.gitattributes

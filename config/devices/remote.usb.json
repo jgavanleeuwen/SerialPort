@@ -1,0 +1,10 @@
+{
+	"config": {
+		"vendorId": 65472,
+		"productId": 1,
+		"endpoint": 129
+	},
+	"controls": {
+		"click": [0,0,0,0]
+	}
+}

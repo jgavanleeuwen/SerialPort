@@ -1,0 +1,14 @@
+{
+	"config": {
+		"vendorId": 2362,
+		"productId": 9488,
+		"endpoint": 129
+	},
+	"controls": {
+		"click-left":  	[1, 0, 0, 0],
+		"click-right": 	[2, 0, 0, 0],
+		"click-middle": [4, 0, 0, 0],
+		"scroll-up": 	[0, 0, 0, 255],
+		"scroll-down": 	[0, 0, 0, 1]
+	}
+}
